@@ -1,0 +1,57 @@
+{
+    "domain": "openai.com",
+    "ip": "172.64.154.211",
+    "whois": {
+        "domain_name": "OPENAI.COM",
+        "registrar": "MarkMonitor, Inc.",
+        "registrar_url": "http://www.markmonitor.com",
+        "reseller": null,
+        "whois_server": "whois.markmonitor.com",
+        "referral_url": null,
+        "updated_date": [
+            "2024-10-17T22:20:04",
+            "2024-10-17T22:02:55+00:00"
+        ],
+        "creation_date": [
+            "2007-01-19T19:28:24",
+            "2007-01-19T19:28:24+00:00"
+        ],
+        "expiration_date": [
+            "2029-01-19T19:28:24",
+            "2029-01-19T19:28:24+00:00"
+        ],
+        "name_servers": [
+            "NS1-02.AZURE-DNS.COM",
+            "NS2-02.AZURE-DNS.NET",
+            "NS3-02.AZURE-DNS.ORG",
+            "NS4-02.AZURE-DNS.INFO"
+        ],
+        "status": [
+            "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+            "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+            "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+            "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+            "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+            "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+            "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+            "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+            "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+            "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+            "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+            "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+        ],
+        "emails": [
+            "abusecomplaints@markmonitor.com",
+            "whoisrequest@markmonitor.com"
+        ],
+        "dnssec": "unsigned",
+        "name": null,
+        "org": "OpenAI",
+        "address": null,
+        "city": null,
+        "state": null,
+        "registrant_postal_code": null,
+        "country": "US"
+    },
+    "timestamp": "2025-07-22T20:00:18.891067Z"
+}
